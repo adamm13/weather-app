@@ -6,7 +6,9 @@ A simple weather app built with React that uses the [Open Weather API](https://o
 
 ## Screenshots
 
-![alt text](https://github.com/adamm13/weather-app/blob/master/src/pics/weather.gif)
+<p align="center">
+<img src="https://github.com/adamm13/weather-app/blob/master/src/pics/weather.gif"/>
+</p>
 
 ---
 
