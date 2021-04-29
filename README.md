@@ -1,6 +1,6 @@
 # Weather App
 
-A simple weather app built with React that uses the [Open Weather API](https://openweathermap.org/api) to check the forecast globally and returns the date, temperature, and type of weather.
+A simple weather app built with React that uses the [Open Weather API](https://openweathermap.org/api) to check the forecast globally and returns the date, temperature, and type of weather. Tutorials were used to learn the openweather API and for hiding the API keys.
 
 ---
 
@@ -14,11 +14,11 @@ A simple weather app built with React that uses the [Open Weather API](https://o
 
 ## Features
 
-- Background changes if weather is warmer than 16 degrees. 
+- Background changes if weather above or below 16 degrees celsius. 
 
-- Shows the Type of weather (Rain, Clear, CLoudy, Fog, etc.)
+- Shows the Type of weather (Rain, Clear, Clouds, Fog, etc.)
 
-- Built for Mobile
+- Built and optimized for mobile devices. 
 
 ---
 
